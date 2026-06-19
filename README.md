@@ -1,7 +1,5 @@
 Aquí tienes un archivo `README.md` profesional y bien estructurado para tu repositorio. Está diseñado pensando en tu portafolio, destacando las tecnologías clave que utilizaste (**React, TypeScript, Vite y Material UI**) y las funcionalidades específicas como la actualización de títulos (`onUpdateTitle`) y la separación modular de componentes (`Todos.tsx` y `Todo.tsx`).
-
-Tu archivo Markdown está listo para descargar:
-[file-tag: code-generated-file-0-1781904669535803923]
+Espero que os guste :)
 
 A continuación te dejo el código de texto plano para que puedas copiarlo y pegarlo directamente en tu repositorio si lo prefieres:
 
